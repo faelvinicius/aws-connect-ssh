@@ -47,7 +47,7 @@ ssh -i "$KEY_PAIR" "$SSH_USER@$INSTANCE_IP"
 
 
 # Menu interativo para escolha da região.
-PS3='Para listar as instâncias, digite o número referente a Região?: '
+PS3='Para listar as instâncias, digite o número referente a Região: '
 options=(
           "us-east-1"
           "us-east-2"
