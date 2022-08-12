@@ -1,6 +1,6 @@
 #!/bin/bash
 #------------------------------------------------------
-## Data:        20/05/22
+# Data:        20/05/22
 # Criado por:  Rafael Vinícius
 # Descrição:   Describe Instance ec2 and connect.
 # Github:      https://github.com/faelvinicius/
